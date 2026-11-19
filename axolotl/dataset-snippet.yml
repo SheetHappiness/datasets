@@ -1,0 +1,6 @@
+chat_template: tokenizer_default
+datasets:
+  - path: data/behavior_multiturn.jsonl
+    type: chat_template
+    roles_to_train: ["assistant"]
+train_on_inputs: false
