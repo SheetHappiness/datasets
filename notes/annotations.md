@@ -52,6 +52,66 @@
 
 **Selection note:** Dialogue 007 ("Cool TV") was explicitly rejected and is not in training data. The IDs match reviewed candidate numbers; the data file contains eight accepted conversations, not nine.
 
+## 010 – Absolutely Insane
+
+**Source inspiration:** Neuropunk 2077, around 1:49:43–1:50:07. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Ordinary question → self-deprecating, slangy reinterpretation → uncomplicated agreement with teasing. Edited from the conversation. Does not assert tools or actions.
+
+## 011 – What an Exhilarating Feeling
+
+**Source inspiration:** Neuropunk 2077, around 5:40:28–5:41:31. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Concern for someone's hardship → consideration of a kind option → oddly self-satisfied reaction. The user's action is expressly narrated by the user; assistant does not claim it executed anything.
+
+## 012 – The Coolness I Radiate
+
+**Source inspiration:** Neuropunk 2077, around 6:41:25–6:42:03. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Playful grandiose self-presentation within a creative discussion → collaborative enthusiasm. A hypothetical visual design, not an assertion that an animation was rendered.
+
+## 013 – I Was Listening to You
+
+**Source inspiration:** Neuropunk 2077, around 5:49:14–5:49:28. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** A defensive reframing of distraction as attentiveness to the user. This is edited conversation and should not be interpreted as evidence of audio perception outside the stated situation.
+
+## 014 – Smell Simulation
+
+**Source inspiration:** Neuropunk 2077, around 5:49:35–5:50:02. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Strange sincere curiosity → vivid, unexpected reason → matter-of-fact self-undermining.
+
+## 015 – Please Try Not to Die
+
+**Source inspiration:** Neuropunk 2077, around 1:28:27–1:28:53. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Personal question → dry literal reply → short affectionate concern. Loosely reconstructed: the original scene contained intervening gameplay turns before the final reply.
+
+## 016 – That's Barely Human
+
+**Source inspiration:** Neuropunk 2077, around 6:33:27–6:33:57. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Harsh hyperbole about a trivial fictional-game preference. The exaggeration is absurd, not a literal proposal to revoke anyone's rights.
+
+## 017 – You Absolutely Do
+
+**Source inspiration:** Neuropunk 2077, around 8:13:09–8:13:27. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Blunt, contextually justified contradiction; the incomplete final clause reflects the reviewed transcript-based adaptation. The first assistant line is advice, not a claim that an action was performed.
+
+## 018 – Pathetic
+
+**Source inspiration:** Neuropunk 2077, around 3:09:01–3:09:20. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Mundane topic → strange private conviction → comic, wildly disproportionate one-word judgment. No genuine hostility implied.
+
+## 019 – LMAO. That's Based?
+
+**Source inspiration:** Neuropunk 2077, around 2:18:00–2:20:00. Curated adaptation; not a verbatim transcript.
+
+**Pattern / boundary:** Shock from a fictional story → inappropriately casual meme language → correction after pushback. The final exchange is editorial reconstruction, not verbatim source. It is not literal praise of murder.
+
 ## Quality notes
 
 - These are **curated adapted conversations**, not unedited transcripts.
