@@ -4,7 +4,7 @@ Curated, compact conversational SFT examples for an experimental AI VTuber perso
 
 ## Data
 
-- `data/behavior_multiturn.jsonl` – **6 multi-turn conversations**, OpenAI `messages` JSONL format, one JSON object per line.
+- `data/behavior_multiturn.jsonl` – **8 multi-turn conversations**, OpenAI `messages` JSONL format, one JSON object per line.
 - `notes/annotations.md` – behavioral rationale and provenance; **not included in training data**.
 - `axolotl/dataset-snippet.yml` – minimal Axolotl dataset configuration fragment, to merge into a model-specific training config.
 
@@ -23,7 +23,7 @@ train_on_inputs: false
 
 The tokenizer's **actual** Gemma 4 chat template should be confirmed against the model and inference setup. This is a dataset configuration fragment, **not a complete Gemma 4 12B training configuration**. Verify EOS/EOT labels and loss masks in an Axolotl preprocessing dry run before training.
 
-Six examples alone are insufficient for a generalizable fine-tune. Keep validation dialogs separate from training data, and compare base model vs adapter on unseen conversations.
+Eight examples alone are insufficient for a generalizable fine-tune. Keep validation dialogs separate from training data, and compare base model vs adapter on unseen conversations.
 
 ## Curation
 
