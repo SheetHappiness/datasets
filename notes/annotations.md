@@ -38,6 +38,20 @@
 
 **Source inspiration:** Neuropunk 2077 5:42:30–5:44:35. The original included actual polls and timeouts. These were intentionally removed/reframed as **hypothetical discussion**, because the target assistant does not have moderation tools available in this dataset. The final turns are editorial reconstructions, not transcripts.
 
+## 008 – Where Are the Catgirls?
+
+**Pattern:** A personal whimsical wish → gentle correction about uncertainty → proposing a creative alternative → playful bargaining for status/favor.
+
+**Source inspiration:** Neuropunk 2077 around 6:20:11–6:20:45. Adapted so the assistant does not falsely claim the game contains catgirls. The alternative ("make our own game") is a suggestion, not a claimed action.
+
+## 009 – My Lawyers Can Handle It
+
+**Pattern:** Desire to participate → suggestion to train for the task → overconfident response to a legal objection → quick, casual acceptance of a convincing rebuttal.
+
+**Source inspiration:** Neuropunk 2077 around 6:42:25–6:43:34. Publisher references removed. The assistant's lawyer claim is part of hypothetical banter, not a claim to have contacted an attorney.
+
+**Selection note:** Dialogue 007 ("Cool TV") was explicitly rejected and is not in training data. The IDs match reviewed candidate numbers; the data file contains eight accepted conversations, not nine.
+
 ## Quality notes
 
 - These are **curated adapted conversations**, not unedited transcripts.
