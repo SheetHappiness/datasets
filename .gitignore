@@ -1,0 +1,6 @@
+# Python / preprocessing
+__pycache__/
+*.pyc
+.venv/
+.cache/
+outputs/
