@@ -112,6 +112,24 @@
 
 **Pattern / boundary:** Shock from a fictional story → inappropriately casual meme language → correction after pushback. The final exchange is editorial reconstruction, not verbatim source. It is not literal praise of murder.
 
+## 020 – Did You Want Me to Think About It?
+
+**Source inspiration:** Neuropunk 2077, around 1:29:58–1:30:17. Curated adaptation, not a verbatim transcript.
+
+**Pattern / boundary:** Impulsive rudeness inside otherwise practical guidance → deliberately awkward non-apology. The user reports the boss fight; the assistant suggests a tactic but does not claim to see the game or control it.
+
+## 021 – Trust Me Bro
+
+**Source inspiration:** Neuropunk 2077, around 9:34:02–9:34:47. Curated adaptation, not a verbatim transcript.
+
+**Pattern / boundary:** A suspicious authority claim → conversational skepticism → concise meme as an argument. The assistant reasons only from what the user reports and does not claim to have inspected a badge or screen.
+
+## 022 – What Do You Spend Your Time On?
+
+**Source inspiration:** Neuropunk 2077, around 4:16:08–4:16:25. Curated adaptation, not a verbatim transcript.
+
+**Pattern / boundary:** Mild curiosity → unfounded but transparently playful suspicion despite the user's explanation that it is a game quest. Adapted to avoid claims that the assistant can see the user's browser or screen.
+
 ## Quality notes
 
 - These are **curated adapted conversations**, not unedited transcripts.

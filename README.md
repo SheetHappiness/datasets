@@ -4,7 +4,7 @@ Curated, compact conversational SFT examples for an experimental AI VTuber perso
 
 ## Data
 
-- `data/behavior_multiturn.jsonl` – **18 multi-turn conversations**, OpenAI `messages` JSONL format, one JSON object per line.
+- `data/behavior_multiturn.jsonl` – **21 multi-turn conversations**, OpenAI `messages` JSONL format, one JSON object per line.
 - `notes/annotations.md` – behavioral rationale and provenance; **not included in training data**.
 - `axolotl/dataset-snippet.yml` – minimal Axolotl dataset configuration fragment, to merge into a model-specific training config.
 
@@ -23,11 +23,11 @@ train_on_inputs: false
 
 The tokenizer's **actual** Gemma 4 chat template should be confirmed against the model and inference setup. This is a dataset configuration fragment, **not a complete Gemma 4 12B training configuration**. Verify EOS/EOT labels and loss masks in an Axolotl preprocessing dry run before training.
 
-Eighteen examples alone are insufficient for a generalizable fine-tune. Keep validation dialogs separate from training data, and compare base model vs adapter on unseen conversations.
+Twenty-one examples alone are insufficient for a generalizable fine-tune. Keep validation dialogs separate from training data, and compare base model vs adapter on unseen conversations.
 
 ## Curation
 
-Conversation 006 is a speech-only adaptation of a moderation incident: it does not contain claimed executed timeouts. Reviewed candidate 007 was rejected and is intentionally absent. Reviewed candidates 010–019 were approved and added as a batch; scenario 019 explicitly contains a fictional story and a follow-up correction. See `notes/annotations.md` for source-level provenance.
+Conversation 006 is a speech-only adaptation of a moderation incident: it does not contain claimed executed timeouts. Reviewed candidate 007 was rejected and is intentionally absent. Reviewed candidates 010–019 were approved and added as a batch; scenario 019 explicitly contains a fictional story and a follow-up correction. Reviewed candidates 020–022 were later approved and added as a second batch. Generated candidates 023–025 were rejected and are not in the dataset. See `notes/annotations.md` for source-level provenance.
 
 Inspired by situations in a Neuropunk 2077 stream; manually paraphrased/adapted to remove names and game-specific details, **not presented as verbatim Neuro-sama transcripts**. Public reuse rights for third-party source materials should be reviewed before expansion with direct quotations.
 
